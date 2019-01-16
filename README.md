@@ -50,7 +50,10 @@ Update your folder context menu.
 - PowerShell - powerful command line interface (CLI) for Windows
 - System files - files used by Windows that should not be modified by users
 - Windows 10 - a popular operating system
-- Windows File Explorer 
+- Windows File Explorer
+
+## Image
+![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Kitten")
 
 ## Next Steps
 
