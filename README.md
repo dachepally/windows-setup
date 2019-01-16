@@ -37,7 +37,7 @@ Update your folder context menu.
 
 1. Open the link  [How to Add "Open PowerShell window here as administrator" context menu in Windows 10](https://www.tenforums.com/tutorials/60177-add-open-powershell-window-here-administrator-windows-10-a.html).
 2. Click Download in Step 2.
-3. Follow Steps 5-8.
+3. Follow Steps 5-8. Modified here.
 
 ## Terms
 
@@ -50,7 +50,7 @@ Update your folder context menu.
 - PowerShell - powerful command line interface (CLI) for Windows
 - System files - files used by Windows that should not be modified by users
 - Windows 10 - a popular operating system
-- Windows File Explorer
+- Windows File Explorer 
 
 ## Next Steps
 
